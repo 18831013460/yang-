@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-  <feature
-      url="features/org.eclim_${eclim.version}.jar"
-      id="org.eclim"
-      version="${eclim.version}"/>
-</site>

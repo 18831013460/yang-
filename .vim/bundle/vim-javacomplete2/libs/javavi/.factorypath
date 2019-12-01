@@ -1,5 +1,0 @@
-<factorypath>
-    <factorypathentry kind="VARJAR" id="M2_REPO/com/github/javaparser/javaparser-core/3.5.20/javaparser-core-3.5.20.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="EXTJAR" id="/home/admin/.vim/bundle/vim-javacomplete2/libs/javavi/../javavi_log4j-api.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="EXTJAR" id="/home/admin/.vim/bundle/vim-javacomplete2/libs/javavi/../javavi_log4j-core.jar" enabled="true" runInBatchMode="false"/>
-</factorypath>
