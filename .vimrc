@@ -11,7 +11,6 @@ autocmd FileType java setlocal omnifunc=javacomplete#Complete
 nmap <C-m> <Plug>(JavaComplete-Imports-AddSmart)
 nmap <C-a> <Plug>(JavaComplete-Imports-Add)
 Plugin 'vim-airline/vim-airline'
-Plugin 'vim-vdebug/vdebug'
  Plugin 'othree/html5.vim'
  Plugin 'SirVer/ultisnips'
  Plugin 'honza/vim-snippets'
